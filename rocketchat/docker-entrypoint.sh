@@ -1,0 +1,2 @@
+echo "jopa"
+ls
